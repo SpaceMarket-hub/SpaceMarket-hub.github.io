@@ -15,39 +15,6 @@ minimal-categorized is a flexible Jekyll theme, designed for sites with content 
 
 ![layout examples](screenshot.png)
 
-## Installation
-There are three ways to install:
-
-* As a ruby gem theme:
-
-    Add this line to your Jekyll site's `Gemfile`:
-
-    ```ruby
-    gem "minimal-categorized"
-    ```
-
-    And add this line to your Jekyll site's `_config.yml`:
-
-    ```yaml
-    theme: minimal-categorized
-    ```
-
-    And then execute:
-
-        $ bundle
-
-    Or install it yourself as:
-
-        $ gem install minimal-categorized
-
-* As a remote theme (GitHub Pages compatible)
-    
-    In your Jekyll site's _config.yml remove other themes and add this entry:
-    ```
-    remote_theme: ItsMeaga1n/minimal-categorized
-    ```
-
-* Forking/directly copying all of the theme files into your project.
 ## Usage
 
 This theme is based on separating content into categories, which is later shown on separated sites designated to the specific content type.
