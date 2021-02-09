@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map API
-category: 개발의 길
+category: category-1
 summary: 지도 API 간단 요약
 image: assets/img/category-1.jpg
 ---
