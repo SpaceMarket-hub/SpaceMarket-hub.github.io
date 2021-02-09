@@ -1,6 +1,6 @@
-menu_title: Example menu title
-menu_headline: example menu headline
-menu_intro: Hi! This is an example of intro that you could write for your jekyll minimal-categorized theme!
+menu_title: SpaceMarket
+menu_headline: SpaceMarket
+menu_intro: Utilize Time, Rebuild Space
 show_menu_on_gate_page: False
 minimal_menu: True
 menu_logo: assets/img/avatar.png
@@ -12,23 +12,21 @@ menu_pages:
   icon_name: fas fa-home
   category: home
 
-- title: Category 1
+- title: 개발의 길
   url: /category-1.html
   show_on_home: True
-  image_url: assets/img/category-1.jpg
   icon_name: fas fa-dice
   category: category-1
-  tooltip: This is category 1
-  description: Category 1 description, which is written in menu.yml file under :description property
+  tooltip: 개발의 길
+  description: Dev. Log
 
-- title: Category 2
+- title: 가지않은 길
   url: /category-2.html
   show_on_home: True
-  image_url: assets/img/category-2.jpg
   icon_name: fas fa-cogs
   category: category-2
-  tooltip: This is category 2
-  description: Category 2 description, which is written in menu.yml file under :description property
+  tooltip: 가지않은 길
+  description: Useful somewhere, sometimes.
 
 - title: About
   url: about.html
@@ -41,9 +39,6 @@ menu_contacts:
 - faicon: fab fa-github-alt
   url: 
   target: _blank
-- faicon: fab fa-twitter
+- faicon: fas fa-envelope
   url: 
   target: _blank
-- faicon: fas fa-envelope
-  url:
-  target: 
