@@ -4,5 +4,5 @@ lightTheme: False
 show_menu_logo_on_home_page: True
 cookies:
   enabled: True
-  message: dev_platform.
+  message: Can I get cookies?
   agreeButtonText: Agree
