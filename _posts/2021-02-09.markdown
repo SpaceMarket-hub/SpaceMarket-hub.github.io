@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Map API
+title: about Map API
 category: category-1
-summary: 지도 API 간단 요약
-image: assets/img/category-1.jpg
+summary: 맵 API를 걱정하고 있다면.
 ---
 
 앱은 네이버,  
 웹은 카카오,  
 글로벌은 구글,  
-테스트는 공기업(kostat, ngii, nsdi, vworld)  
+테스트는 공기업(kostat, ngii, nsdi, vworld..etc)  
