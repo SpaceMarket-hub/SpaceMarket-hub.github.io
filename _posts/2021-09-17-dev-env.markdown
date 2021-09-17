@@ -1,0 +1,12 @@
+---
+layout: post
+title: Dev.Env.
+category: category-1
+summary: 
+---
+
+- Github, Notion&Slack, Firebase,  
+- Flutter 기반의 앱 개발(Android, iOS) + 웹 개발(베타), NodeJS기반의 웹 개발. TS(베타)  
+- Java, Kotlin and Python 등 제반 연결 & CoWork 기술 활용  
+- 앱: Provider, Riverpod and GetX 등 / 웹: MySQL, ExpressJS, PM2 등  
+- 주 1회 사내 기술 컨퍼런스 Lite  
