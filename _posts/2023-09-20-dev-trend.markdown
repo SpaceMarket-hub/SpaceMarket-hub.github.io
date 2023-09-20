@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Dev.Trend.  
-category: category-3  
+category: category-1  
 summary:   
 ---  
   
@@ -10,4 +10,3 @@ summary:
 - 짧은 리액트로 말하자면 클래스 컴포넌트와 함수 컴포넌트  
 - 플러터로 말하자면 스테이트풀과 스테이트리스.   
 - 많아지는 어노테이션.
-- 
